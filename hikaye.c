@@ -8,4 +8,20 @@ printf("Son çıkan efsanelerden sonra bu ormanın derinliklerinde güvende olma
 printf("Kardeşlerden küçük olanı ormanın derinliklerinden gelen bir ses duyduğunu söyledi..")
 printf("Büyük kardeş küçük kardeşine sakin olmasını ve beraber olurlarsa başlarına kötü bir şey gelmeyeceğini söyledi");//Ömer Faruk Korkunç
 printf("Birden arkalarından gelen bir ses onları durdurdu."Kim var orada?"diye bağırdılar ama cevap alamadılar.Birbirlerine korkuyla daha sıkı sarıldılar.")//İrem Topsakal
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  printf("Sonunda, ufukta köyün ışıkları belirdi ve iki kardeş de rahat bir nefes aldı. Büyük bir maceranın sonunda güvenliğe ulaşmanın mutluluğunu yaşadılar.\n");
 }
